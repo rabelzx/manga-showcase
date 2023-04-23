@@ -97,6 +97,7 @@ body {
 }
 
 .details .cast .character-wrapper {
+    
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -117,6 +118,7 @@ body {
 }
 
 .details .cast img {
+    
     height: 150px;
     width: 120px;
     cursor: pointer;
@@ -144,3 +146,4 @@ body {
         display: none;
     }
 }
+

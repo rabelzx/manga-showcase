@@ -135,4 +135,10 @@ section {
         font-size: 3em;
         line-height: 60px;
     }
+
+    .slider-navigation .nav-button {
+        height: 20px;
+        width: 20px;
+    }
 }
+
