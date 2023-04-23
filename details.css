@@ -19,7 +19,7 @@ body {
     color: #fff;
 }
 
-.main-section>img {
+.main-section > img {
     z-index: 000;
     position: absolute;
     top: 0;
@@ -61,10 +61,11 @@ body {
 .details a {
     display: inline-block;
     font-size: 16px;
-    color: #4CA3E6;
+    color: #D2001A;
     margin-top: 24px;
     text-decoration: none;
     transition: 0.3s ease-in-out;
+    font-weight:  600;
 
 }
 
@@ -101,7 +102,6 @@ body {
     align-items: center;
     justify-content: center;
     flex: 0 0 auto;
-
     transition: 0.5s ease;
     filter: grayscale(1);
 }
