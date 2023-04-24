@@ -46,11 +46,12 @@ body {
 .details .text{
     padding-left: 24px;
 }
-.details i{
+
+.details .texr i{
     margin-right: 5px;
 }
 
-.details .return {
+.details .text .return {
     display: inline-block;
     margin-bottom: 20px;
     cursor: pointer;
@@ -59,13 +60,13 @@ body {
     font-size: 16px;
 }
 
-.details h1 {
+.details .text h1 {
     font-size: calc(2em + 0.7vw);
     line-height: 1.2;
     margin-bottom: 16px;
 }
 
-.details .read {
+.details .text .read {
     display: inline-block;
     font-size: 16px;
     color: #D2001A;
@@ -76,22 +77,22 @@ body {
 
 }
 
-.details .read:hover{
+.details .text .read:hover{
     color: #fff;
 }
-.details a:hover {
+.details .text a:hover {
     text-decoration: underline;
 }
 
 
-.details>p {
+.details .text p {
     width: 100%;
     max-width: 75ch;
     font-size: 16px;
     line-height: 1.5;
 }
 
-.details h3 {
+.details .text h3 {
     font-size: 20px;
     font-weight: 600;
     margin-top: 40px;
