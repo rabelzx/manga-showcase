@@ -48,7 +48,7 @@ section {
 }
 
 .home .content p {
-    margin-bottom: 65px;
+    margin-bottom: 60px;
 }
 
 .home .content a {
@@ -84,7 +84,7 @@ section {
     justify-content: center;
     align-items: center;
     transform: translateY(80px);
-    margin-bottom: 12px;
+    bottom: 0px;
 
 }
 
