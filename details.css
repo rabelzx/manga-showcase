@@ -151,5 +151,10 @@ body {
     .cast {
         display: none;
     }
+
+    .main-section > img {
+        height: 120vh;
+    
+    }
 }
 
